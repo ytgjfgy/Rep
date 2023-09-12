@@ -1,0 +1,11 @@
+D:\Козиков\Computer\Computer\bin\Debug\Computer.exe.config
+D:\Козиков\Computer\Computer\bin\Debug\Computer.exe
+D:\Козиков\Computer\Computer\bin\Debug\Computer.pdb
+D:\Козиков\Computer\Computer\obj\Debug\Computer.csproj.AssemblyReference.cache
+D:\Козиков\Computer\Computer\obj\Debug\Computer.csproj.SuggestedBindingRedirects.cache
+D:\Козиков\Computer\Computer\obj\Debug\Computer.MainForm.resources
+D:\Козиков\Computer\Computer\obj\Debug\Computer.Properties.Resources.resources
+D:\Козиков\Computer\Computer\obj\Debug\Computer.csproj.GenerateResource.cache
+D:\Козиков\Computer\Computer\obj\Debug\Computer.csproj.CoreCompileInputs.cache
+D:\Козиков\Computer\Computer\obj\Debug\Computer.exe
+D:\Козиков\Computer\Computer\obj\Debug\Computer.pdb
